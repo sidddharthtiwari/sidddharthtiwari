@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **URL Shortener**
 
-- 🌱 I’m currently learning **Node JS, Express, etc.**
+- 🌱 I’m currently learning **Node JS, Express**
 
 - 👨‍💻 All of my projects are available at [https://sidddharthtiwari.github.io/my-portfolio/](https://sidddharthtiwari.github.io/my-portfolio/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, NodeJs, Express,**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, NodeJs, Express**
 
 - 📫 How to reach me **siddharthtiwari0103@gmail.com**
 
